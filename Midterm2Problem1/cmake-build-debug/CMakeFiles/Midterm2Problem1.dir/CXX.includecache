@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aanvi/CLionProjects/Midterm2Problem1/BST.hpp
+
+/Users/aanvi/CLionProjects/Midterm2Problem1/main.cpp
+iostream
+-
+BST.hpp
+/Users/aanvi/CLionProjects/Midterm2Problem1/BST.hpp
+

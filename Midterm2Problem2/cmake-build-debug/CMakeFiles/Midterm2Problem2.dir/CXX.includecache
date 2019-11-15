@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aanvi/CLionProjects/Midterm2Problem2/heaps.cpp
+iostream
+-
+heaps.hpp
+/Users/aanvi/CLionProjects/Midterm2Problem2/heaps.hpp
+iostream
+-
+heaps.hpp
+/Users/aanvi/CLionProjects/Midterm2Problem2/heaps.hpp
+
+/Users/aanvi/CLionProjects/Midterm2Problem2/heaps.hpp
+

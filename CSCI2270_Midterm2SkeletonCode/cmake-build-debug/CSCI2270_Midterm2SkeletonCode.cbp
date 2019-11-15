@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CSCI2270_Midterm2SkeletonCode"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSCI2270_Midterm2SkeletonCode">
+				<Option output="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/CSCI2270_Midterm2SkeletonCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSCI2270_Midterm2SkeletonCode"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSCI2270_Midterm2SkeletonCode/fast">
+				<Option output="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/CSCI2270_Midterm2SkeletonCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSCI2270_Midterm2SkeletonCode/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/BST.cpp">
+			<Option target="CSCI2270_Midterm2SkeletonCode"/>
+		</Unit>
+		<Unit filename="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/BST.hpp">
+			<Option target="CSCI2270_Midterm2SkeletonCode"/>
+		</Unit>
+		<Unit filename="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/graphs.cpp">
+			<Option target="CSCI2270_Midterm2SkeletonCode"/>
+		</Unit>
+		<Unit filename="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/graphs.hpp">
+			<Option target="CSCI2270_Midterm2SkeletonCode"/>
+		</Unit>
+		<Unit filename="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/hash.cpp">
+			<Option target="CSCI2270_Midterm2SkeletonCode"/>
+		</Unit>
+		<Unit filename="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/hash.hpp">
+			<Option target="CSCI2270_Midterm2SkeletonCode"/>
+		</Unit>
+		<Unit filename="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/heaps.cpp">
+			<Option target="CSCI2270_Midterm2SkeletonCode"/>
+		</Unit>
+		<Unit filename="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/heaps.hpp">
+			<Option target="CSCI2270_Midterm2SkeletonCode"/>
+		</Unit>
+		<Unit filename="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/main.cpp">
+			<Option target="CSCI2270_Midterm2SkeletonCode"/>
+		</Unit>
+		<Unit filename="/Users/aanvi/CLionProjects/CSCI2270_Midterm2SkeletonCode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
